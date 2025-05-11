@@ -1,0 +1,19 @@
+{
+    "config_path": "config.json",
+    "version": 4,
+    "first_run": true,
+    "scan_time": 4,
+    "dry_run": false,
+    "energy": 256,
+    "quality": 40,
+    "language": "en-US",
+    "dark_theme": true,
+    "mono_algorithm": "algo-direct",
+    "threshold": 86,
+    "text_mode": true,
+    "flip": true,
+    "rotate": false,
+    "transparent_as_white": true,
+    "large_font": true,
+    "high_contrast": false
+}
